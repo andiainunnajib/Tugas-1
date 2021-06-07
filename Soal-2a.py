@@ -1,4 +1,4 @@
-#definisikan
+#definisikan paker def return
 def luas_lingkaran(r):
     return r
 
